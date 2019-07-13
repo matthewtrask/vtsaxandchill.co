@@ -1,0 +1,25 @@
+body {
+  background-color: #edf2f7
+}
+
+.intro {
+  height: 52rem;
+}
+
+p {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.20rem;
+}
+
+.title {
+  font-size: 12rem;
+  color: red;
+  font-family: 'Caveat', cursive;
+}
+
+.heading {
+  font-size: 6rem;
+  color: red;
+  font-family: 'Caveat', cursive;
+}
